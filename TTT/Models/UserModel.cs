@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace TTT.Models
 {
-    public class UserClass
+    public class UserModel
     {
         public int Id { get; set; }
         public string Username { get; set; }
