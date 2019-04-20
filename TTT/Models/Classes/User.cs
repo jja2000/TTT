@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TTT.Models
+namespace TTT.Models.Classes
 {
-    public class UserClass
+    public class User
     {
         public int Id { get; set; }
         public string Username { get; set; }
